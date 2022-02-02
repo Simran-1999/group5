@@ -1,0 +1,13 @@
+package com.vehicallicense.vehicallicenseapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VehicallicenseappApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
